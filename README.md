@@ -12,7 +12,7 @@ I've been coding since 3 years , I have experience working with html, css, pytho
 * 🚀  I'm currently working on [Bingo Engine](https://bingo-engine.herokuapp.com)
 * 🧠  I'm learning cloud computing
 * 🤝  I'm open to collaborating on web apps backend , and computational projects
-* ⚡  I love listening to heavy metal and love reading western philosophy. I love making detailed and trendy softwares
+* ⚡  I love listening to pop music and love reading science fiction . I love making detailed and trendy softwares
 
 ### Skills
 
