@@ -10,7 +10,7 @@ I've been coding since 3 years , I have experience working with html, css, pytho
 * 🖥️  See my portfolio at [portfolio](http://harrycodeswhileworldsleeps.github.io/harsh-s-cv/)
 * ✉️  You can contact me at [harrypressplay@gmail.com](mailto:harrypressplay@gmail.com)
 * 🚀  I'm currently working on [Bingo Engine](https://bingo-engine.herokuapp.com)
-* 🧠  I'm learning cloud computing
+* 🧠  I'm paving my way to become a full stack web dev
 * 🤝  I'm open to collaborating on web apps backend , and computational projects
 * ⚡  I love listening to pop music and love reading science fiction . I love making detailed and trendy softwares
 
