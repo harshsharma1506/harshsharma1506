@@ -1,7 +1,7 @@
 Hi 👋 My name is Harsh Sharma
 =============================
 
-Self Taught Dev 
+SAP BI and Django Self Taught Dev 
 ------------------------------
 
 I've been coding since 3 years , I have experience working with html, css, python , js and frameworks like django along with ERP system - SAP .
