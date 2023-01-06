@@ -4,7 +4,7 @@ Hi 👋 My name is Harsh Sharma
 Self Taught Dev 
 ------------------------------
 
-I've been coding since 3 years , I have experience working with html, css, python , js and frameworks like django .
+I've been coding since 3 years , I have experience working with html, css, python , js and frameworks like django along with ERP system - SAP .
 
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [portfolio](http://harrycodeswhileworldsleeps.github.io/harsh-s-cv/)
@@ -22,6 +22,7 @@ I've been coding since 3 years , I have experience working with html, css, pytho
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.sap.com/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/6hbheieoz/image_kFUhe7Ljq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673012917824" width="36" height="36" alt="SAP"/></a>
 </p>
 
 
