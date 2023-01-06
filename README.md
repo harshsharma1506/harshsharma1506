@@ -4,7 +4,7 @@ Hi 👋 My name is Harsh Sharma
 SAP BI and Django Self Taught Dev 
 ------------------------------
 
-I've been coding since 3 years , I have experience working with html, css, python , js and frameworks like django along with ERP system - SAP .
+I've been coding since 6 years , I have experience working with html, css, python , js and frameworks like django along with ERP system - SAP .
 
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [portfolio](http://harrycodeswhileworldsleeps.github.io/harsh-s-cv/)
