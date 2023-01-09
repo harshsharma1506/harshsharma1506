@@ -14,6 +14,7 @@ I've been coding since 6 years , I have experience working with html, css, pytho
 * 🤝  I'm open for collaborating on web apps backend and SAP computational projects
 * ⚡  I love listening to pop music and love reading science fiction . I love making detailed and trendy softwares.
 
+#### 2 side projects on the way -> FIFA analysis and SAP BI implementation for coal specific industry.
 ### Skills
 
 <p align="left">
