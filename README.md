@@ -1,7 +1,7 @@
 Hi 👋 My name is Harsh Sharma
 =============================
 
-SAP BI SAP Analytics Cloud SAP ABAP and Python / Django Self Taught Dev 
+SAP BI / SAP Analytics Cloud / SAP ABAP and Python / Django Self Taught Dev 
 ------------------------------
 
 I've been coding since 6 years , I have experience working with html, css, python , js and frameworks like django along with ERP system - SAP .
