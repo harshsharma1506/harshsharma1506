@@ -1,7 +1,7 @@
 Hi 👋 My name is Harsh Sharma
 =============================
 
-SAP BI / SAP Analytics Cloud / SAP ABAP and Python / Django Self Taught Dev 
+Software Deeveloper - Python , ABAP , SQL 
 ------------------------------
 
 I've been coding since 6 years , I have experience working with html, css, python , js and frameworks like django along with ERP system - SAP .
@@ -9,8 +9,8 @@ I've been coding since 6 years , I have experience working with html, css, pytho
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [portfolio](http://harrycodeswhileworldsleeps.github.io/harsh-s-cv/)
 * ✉️  You can contact me at [harrypressplay@gmail.com](mailto:harrypressplay@gmail.com)
-* 🚀  I'm currently working as an SAP BI / BW developer for Stanley Black and Decker
-* 🧠  I'm paving my way to become an SAP BI consultant and full stack web dev 
+* 🚀  I'm currently working as an SAP BI / BW / ABAP developer for Stanley Black and Decker
+* 🧠  I'm paving my way to become an SAP Technical consultant and a data oriented developer.
 * 🤝  I'm open for collaborating on web apps backend and SAP computational projects
 * ⚡  I love listening to pop music and love reading science fiction . I love making detailed and trendy softwares.
 
