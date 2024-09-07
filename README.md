@@ -1,7 +1,7 @@
 Hi 👋 My name is Harsh Sharma
 =============================
 
-Software Developer - Python , ABAP , SQL 
+Software Developer / Consultant
 ------------------------------
 
 I've been coding since 6 years , I have experience working with html, css, python , js and frameworks like django along with ERP system - SAP .
