@@ -12,7 +12,7 @@ I've been coding since 6 years , I have experience working with html, css, pytho
 * ⚡  I love listening to pop music and love reading science fiction . I love making detailed and trendy softwares.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma1506)
-
+![Harsh's Github Stats ](https://github-readme-stats.vercel.app/api?username=harshsharma1506)
 
 ### Socials
 
