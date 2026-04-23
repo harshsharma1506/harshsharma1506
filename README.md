@@ -8,7 +8,7 @@ I've been coding since 6 years , I have experience working with html, css, pytho
 
 * 🌍  I'm based in Delhi
 * 🚀  I'm currently working as an SAP Techno Functional Consultant for Stanley Black and Decker
-* 🤝  I'm open for collaborating on web apps backend and SAP computational projects
+* 🤝  I'm open for collaborating on scientific research and SAP computations
 * ⚡  I love listening to pop music and love reading science fiction . I love making detailed and trendy softwares.
 * Know more about me at [my blog](https://harshsharma1506.github.io/)
 
