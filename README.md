@@ -11,5 +11,4 @@ I've been coding for 6 years , I have experience working with QBASIC, html, css,
 * 🤝  I'm open for collaborating on scientific research and SAP computations
 * ⚡  I love listening to Chopin and love reading science fiction . I love making detailed and trendy softwares.
 
-
-
+Not all the repos are serious ones. I have been writing many small programs, since idk when
